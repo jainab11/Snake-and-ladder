@@ -1,6 +1,6 @@
-# import random
+import random
 def dice_roll():
-    # return random.randint(1,6)
+    return random.randint(1,6)
 def player_position():
     pass
 def play_game():
